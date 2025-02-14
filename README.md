@@ -39,7 +39,7 @@ _Note:_
 
 ## Side Notes:
 Color Swatch for the logo:
-- Created from `IMG_0093.JPG` shot on a [Aanon A490](https://www.dpreview.com/products/canon/compacts/canon_a490).
+- Created from `IMG_0093.JPG` shot on a [A Canon A490](https://www.dpreview.com/products/canon/compacts/canon_a490).
 - Will soon be uploaded on coolors website.
 - Color Mode : Web Safe RGB
 
