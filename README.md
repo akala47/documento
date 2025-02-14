@@ -1,18 +1,20 @@
-
+![](images/logo_prop.png)
 
 # Documento
 ## Documenting Life
+#### _Disclaimer: This project is intended to be more of a sidequest and personal project, I do not intend to use this for commercial purposes._
 
+Over the years, I’ve successfully stored vast amounts of media and files 
+using devices like phones, memory cards, and hard drives, as well as virtually on the 
+cloud—creating
+an excellent documentation on myself. 
+However, this vast dataset has become fragmented, so I plan to develop a tool that 
+defragments data in a structured manner.
 
-One interesting thing I understood about myself is that I have vast amounts of media stored 
-virtually(using tech - computers, cameras, hard drives with music) over the years. 
-This documents my environment in an excellent manner.
+This tool could be especially useful in creative fields and environments with large datasets of
+media and documentation.
 
-There is only one problem though. All the data is very fragmented. And I seek to build a tool
-that helps in the defragmentation of data stored on prem and on cloud, especially 
-in creative fields and fields with a lot of media in documentation.
-
-### _Note: there are existing file systems and organizers that do this already,_ however, this project is intended to work on file management for data that was indexed with filenames with no fixed naming conventions and convoluted metadata. 
+#### _Note: there are existing file systems and organizers that do this already,_ however, this project is intended to work on file management for existing databases with no fixed naming conventions and convoluted metadata. 
 
 ## Proof of Concept(In Python): `Documento v0.0`
 
@@ -37,15 +39,7 @@ _Note:_
   - [ ] Remove redundant words from names (E.g. in `lyric video`, `fhd 4k`)
 
 
-## Side Notes:
-Color Swatch for the logo:
-- Created from `IMG_0093.JPG` shot on a [A Canon A490](https://www.dpreview.com/products/canon/compacts/canon_a490).
-- Will soon be uploaded on coolors website.
-- Color Mode : Web Safe RGB
 
-Fonts Used in the future logo:
-- English - `Le Murmure Regular`
-- Hindi - `Vimal Bold`
 
 ## 📜 License(s)
 ![Apache License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
