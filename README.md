@@ -32,9 +32,9 @@ _Note:_
 
 - [ ] Remove redundant copies(including `copy` and `(n)` formats used in different systems
 - [ ] Fix Convoluted and Inconsistent System of File Storage Structure(names) by:
-- [ ] Correcting file date(s) metadata(_seems wrong for some reason lol_)
-- [ ] Enforce a file naming convention()
-- [ ] Remove redundant words from names (E.g. in `lyric video`, `fhd 4k`)
+  - [ ] Correcting file date(s) metadata(_seems wrong for some reason lol_)
+  - [ ] Enforce a file naming convention(underscore, spaces, date, version by date, etc.)
+  - [ ] Remove redundant words from names (E.g. in `lyric video`, `fhd 4k`)
 
 
 ## Side Notes:
